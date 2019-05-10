@@ -2,5 +2,5 @@
 
 Minimal base Docker image with
 
-* latest PHP (from FPM Alpine base); and
+* latest-deployed PHP (from FPM Alpine base); and
 * Composer in path
